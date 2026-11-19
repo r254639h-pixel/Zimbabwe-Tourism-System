@@ -1,0 +1,9 @@
+body { background: #f5f7fa; color: #243247; }
+.navbar-brand { font-weight: 700; letter-spacing: .2px; }
+.hero { background: linear-gradient(120deg, #123b35, #28735d); color: white; padding: 4rem 0; }
+.hero p { max-width: 650px; }
+.destination-img { height: 210px; object-fit: cover; }
+.card { border: 0; box-shadow: 0 5px 18px rgba(25,40,60,.08); }
+.section-space { padding: 2.5rem 0; }
+footer { background: #173b35; color: white; padding: 1.4rem 0; margin-top: 3rem; }
+.admin-wrap { max-width: 980px; margin: 2rem auto; }
